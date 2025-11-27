@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hellin.despliegue_api_rest.DespliegueApiRestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.818 s -- in com.hellin.despliegue_api_rest.DespliegueApiRestApplicationTests
